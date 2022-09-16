@@ -1348,7 +1348,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 9117847662046137034, guid: 7e9bcb9f5919f6f4abf7776b022b2960, type: 3}
       propertyPath: m_Name
-      value: Player
+      value: Little Guy
       objectReference: {fileID: 0}
     - target: {fileID: 9117847662046137040, guid: 7e9bcb9f5919f6f4abf7776b022b2960, type: 3}
       propertyPath: m_CastShadows
@@ -1422,7 +1422,10 @@ PrefabInstance:
       propertyPath: sceneViewId
       value: 3
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 9117847662046137047, guid: 7e9bcb9f5919f6f4abf7776b022b2960, type: 3}
+    - {fileID: 9117847662046137044, guid: 7e9bcb9f5919f6f4abf7776b022b2960, type: 3}
+    - {fileID: 9117847662046137045, guid: 7e9bcb9f5919f6f4abf7776b022b2960, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 7e9bcb9f5919f6f4abf7776b022b2960, type: 3}
 --- !u!1 &875215604
 GameObject:
